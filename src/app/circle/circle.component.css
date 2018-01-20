@@ -1,0 +1,10 @@
+.circle{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(238, 194, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 40px;
+}

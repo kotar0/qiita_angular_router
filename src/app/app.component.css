@@ -1,0 +1,18 @@
+.commonHeaderNavigation, .commonFooter{
+    display: flex;
+    height: 60px;
+    background-color: #ddd;
+    justify-content: center;
+    align-items: center;
+}
+
+.navItem{
+    font-size: 22px;
+}
+
+.commonFooter{
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
